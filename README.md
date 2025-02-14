@@ -50,9 +50,10 @@ Universal Turing machine, Linear Bounded Automata, Church’s Thesis, Recursive 
 Enumerable language, Halting Problem, Post’s Correspondance Problem, Introduction to
 Recursive Function Theory.
 08
-Text books:
-1. Introduction to Automata theory, Languages and Computation, J.E.Hopcraft, R.Motwani, and Ullman. 2nd
+
+## Text books:
+- 1. Introduction to Automata theory, Languages and Computation, J.E.Hopcraft, R.Motwani, and Ullman. 2nd
 edition, Pearson Education Asia
-2. Introduction to languages and the theory of computation, J Martin, 3rd Edition, Tata McGraw Hill
-3. Elements and Theory of Computation, C Papadimitrou and C. L. Lewis, PHI 
-4. Mathematical Foundation of Computer Science, Y.N.Singh, New Age Internationa
+- 2. Introduction to languages and the theory of computation, J Martin, 3rd Edition, Tata McGraw Hill
+- 3. Elements and Theory of Computation, C Papadimitrou and C. L. Lewis, PHI 
+- 4. Mathematical Foundation of Computer Science, Y.N.Singh, New Age Internationa
